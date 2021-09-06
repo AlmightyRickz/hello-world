@@ -1,5 +1,5 @@
-# hello-world
-二维数组实现迷宫，或其他图案。
+#2d_array in maze
+//二维数组实现迷宫，或其他图案。
 using System;
 
 namespace maze
